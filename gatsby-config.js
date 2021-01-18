@@ -17,7 +17,7 @@ module.exports = {
       image_url: `${urljoin(
         config.siteUrl,
         config.pathPrefix
-      )}/logos/logo-512.png`,
+      )}/logos/profile.png`,
       copyright: config.copyright,
     },
   },
