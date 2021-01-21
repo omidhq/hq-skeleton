@@ -12,7 +12,7 @@ function PostTags({ tags }) {
             style={{ textDecoration: "none" }}
             to={`/tags/${_.kebabCase(tag)}`}
           >
-            <button type="button">{tag}</button>
+            <button type="button" className="TagsButton">{tag}</button>
           </Link>
         ))}
     </div>

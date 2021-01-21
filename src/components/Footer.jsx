@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import UserLinks from "../UserLinks/UserLinks";
-import "./Footer.css";
+import UserLinks from "./UserLinks/UserLinks";
 
 function Footer({ config }) {
   const url = config.siteRss;
@@ -18,13 +17,6 @@ function Footer({ config }) {
         <Link to={url}>
           <button type="button">Subscribe</button>
         </Link>
-        <h4>
-          Based on{" "}
-          <a href="https://github.com/Vagr9K/gatsby-advanced-starter">
-            Gatsby Advanced Starter
-          </a>
-          .
-        </h4>
       </div>
     </footer>
   );

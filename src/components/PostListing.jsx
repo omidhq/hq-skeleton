@@ -16,6 +16,7 @@ function PostListing({ postEdges }) {
   });
 
   return (
+    <>
     <div>
       {
         /* Your post list here. */
@@ -26,6 +27,7 @@ function PostListing({ postEdges }) {
         ))
       }
     </div>
+    </>
   );
 }
 
