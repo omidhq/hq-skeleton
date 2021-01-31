@@ -1,5 +1,5 @@
 const config = {
-  siteTitle: "Omid Haqbin", // Site title.
+  siteTitle: "Omid Haqbin - Blog", // Site title.
   siteTitleShort: "Omid Haqbin, Frontend Developer", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   tagline: "> Frontend Developer > Aspiring Programmer > Wannabe Writer",
   siteTitleAlt: "Omid Haqbin, Frontend Developer, Aspiring Programmer, Wannabe Writer", // Alternative site title for SEO.
