@@ -10,7 +10,7 @@ const config = {
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssTitle: "Omid Haqbin, Frontend Developer, Aspiring Programmer, Wannabe Writer", // Title of the RSS feed
   // siteFBAppID: "1825356251115265", // FB Application ID for using app insights
-  googleAnalyticsID: "UA-187323310-1", // GA tracking ID.
+  googleAnalyticsID: "", // GA tracking ID.
   // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // Disqus shortname.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
